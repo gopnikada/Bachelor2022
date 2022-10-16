@@ -1,0 +1,35 @@
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.dll
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\GeoJSON.Net.dll
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.pdb
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.dll.config
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\KyK\Desktop\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\GeoJSON.Net.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\RoutingApp.dll.config
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Kirill\Downloads\Telegram Desktop\PRROD\Appwork\App\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

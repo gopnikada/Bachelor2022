@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RoutingApp.AlgMul">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAgAAAAEAAA=</HashCode>
+      <FileName>AlgMul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.ApiRequest">
+    <Position X="7.25" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ApiRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.Config">
+    <Position X="7.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIEAAIAIQAAAAAADAgAAhAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.DBHandler">
+    <Position X="4.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DBHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.Visualise">
+    <Position X="2.25" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visualise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.DBLineString">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAACAAgAg=</HashCode>
+      <FileName>Entities\DBLineString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.Edge">
+    <Position X="5.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAA0AAAAAAAAAAAACAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Entities\Edge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.Line">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgACQQIAAgAAACEBAAEAABAAgAAEAAIEAAAg=</HashCode>
+      <FileName>Entities\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.Point">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAEgAQIAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.PointFromDB">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkQAAAAAAAAAAAAEAAQIAAAAAACAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Entities\PointFromDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.MainWork">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoutingApp.MatrixExtensions">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>LineString.kml</name>
+<open>1</open>
+<LookAt>
+<longitude>13.414911257118</longitude>
+<latitude>52.5415445016296</latitude>
+<altitude>0</altitude>
+<range>150</range>
+<tilt>50</tilt>
+<heading>0</heading>
+</LookAt>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+13.41498,52.541516,0 13.4145,52.541088,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+13.415332,52.541761,0 13.414418,52.54095,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+13.414418,52.54095,0 13.414377,52.540874,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+13.415849,52.5421,0 13.416147,52.542366,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+13.415758,52.542138,0 13.414556,52.541073,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>Target Point</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.414911257118, 52.5415445016296 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Target Point</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4154694549297, 52.5417035757642 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Target Point</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4158952801174, 52.5420808895529 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Target Point</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4161807584268, 52.542351505927 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 1 start</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4144944784189, 52.5410910899383 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 1 end</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4144230154913, 52.5410225395678 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 2 start</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4142368599746, 52.5408754071578 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 2 end</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.414233524858, 52.5408731637862 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 3 start</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4144950296903, 52.5410978017503 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TRASSE 3 end</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+13.4144591461407, 52.5410723132615 0
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

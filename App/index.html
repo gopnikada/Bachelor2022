@@ -1,0 +1,19 @@
+<html> 
+<body>
+<div id="mapdiv"></div>
+<script src = "OpenLayers-2.13.1/OpenLayers.js"></script>
+<script>map = new OpenLayers.Map("mapdiv");
+map.addLayer(new OpenLayers.Layer.OSM());
+var markers = new OpenLayers.Layer.Markers("Markers");
+map.addLayer(markers);
+var lonLat0 = new OpenLayers.LonLat( 13.661073 ,52.517685 ).transform(new OpenLayers.Projection("EPSG:4326"),
+ map.getProjectionObject());
+markers.addMarker(new OpenLayers.Marker(lonLat0)); 
+var lonLat1 = new OpenLayers.LonLat( 13.661073 ,52.517685 ).transform(new OpenLayers.Projection("EPSG:4326"),
+ map.getProjectionObject());
+markers.addMarker(new OpenLayers.Marker(lonLat1)); 
+var zoom = 18;
+map.setCenter (lonLat0, zoom);
+</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>LineString.kml</name>
+<open>1</open>
+<LookAt>
+<longitude>11.966490777322575</longitude>
+<latitude>51.47803723960745</latitude>
+<altitude>0</altitude>
+<range>150</range>
+<tilt>50</tilt>
+<heading>0</heading>
+</LookAt>
+<Placemark>
+<name>TrassenSegment</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+11.966490,51.478037,0 11.966455,51.477650,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>Target Point</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+11.966300, 51.477793 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Intersection</name>
+<Style>
+<Icon>
+<href>
+http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+</href>
+</Icon>
+</Style>
+<Point>
+<coordinates>
+11.966456, 51.4777850 0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Senkrecht</name>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+11.966300,51.477793,0 11.966456,51.4777850,0
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#ff0000ff</color>
+<width>2</width>
+</LineStyle>
+</Style>
+</Placemark>
+</Document>
+</kml>

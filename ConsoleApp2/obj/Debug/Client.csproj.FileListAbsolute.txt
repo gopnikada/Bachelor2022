@@ -1,0 +1,17 @@
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\RoutingApp.dll
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\GeoJSON.Net.dll
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\RoutingApp.pdb
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\RoutingApp.dll.config
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\Client.csproj.CopyComplete
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\klars\source\repos\bachelor2022\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
